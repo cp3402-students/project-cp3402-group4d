@@ -18,7 +18,7 @@
   - Deployment: 07/29
 
 #### Version Control
-- **Repository**: [GitHub Repository URL]
+- **Repository**: [[GitHub Repository URL](https://github.com/cp3402-students/project-cp3402-group4d)]
 - **Branching Strategy**: 
   - **Main Branch**: `main`
 - **Commit Message Guidelines**: 
@@ -43,12 +43,6 @@
 - **Testing Procedure**: Manual testing by team members
 
 #### Deployment Workflow
-- **Staging Environment**:
-  - URL: [Staging URL if applicable]
-  - Deployment Method: Manual
-- **Production Environment**:
-  - URL: [Production URL]
-  - Deployment Method: Manual
 - **Deployment Steps**:
   1. Complete the final development phase.
   2. Package the theme into a zip file.
@@ -68,7 +62,7 @@
 ### Enhancements
 
 - **Project Workflow Image**: 
-  ![Project Workflow](workflowdiagram.png)D:\Desktop\Laoma3402\A2\workflow diagram.png
+  ![Project Workflow](images/workflowdiagram.png)
 
 - **Code Block for Local Setup**:
   ```bash
