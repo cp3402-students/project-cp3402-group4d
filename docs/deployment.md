@@ -8,7 +8,7 @@
   - **Project Manager**: [Jiayi Li]
   - **Lead Developer**: [Zhenqi Ma]
   - **Content Design Team**: [Weiyu Zhu, Peipei Li]
-  - **Development Team**: [Haolun Zhang, ]
+  - **Development Team**: [Haolun Zhang, Runjie Jiang]
   
 - **Milestones**:
   - Project Kickoff: 07/24
